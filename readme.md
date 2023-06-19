@@ -9,21 +9,35 @@ and there are
 1. music 	
 2. computergames 	
 
+<br>
 
-#### However, 
+### However, 
 
 
-something that constantly occupies my mind, which I don't particularly enjoy, is my type 1 diabetes. 
+something that constantly occupies my mind, which I don't particularly enjoy, is my **type 1 diabetes**.<br><br>
 
  
-<div align="center">
-<img src="https://github.com/jonas8900/jonas8900/assets/123127839/891ef893-548f-40da-80a8-3739e9218a34" width="200">
-</div>
 
-The lack of sufficient apps and resources for managing it is precisely what I'm working on changing. Every day, I strive to improve the situation by developing helpful tools and solutions. Join me on my journey as I combine my passions for web development, music, and creating a positive impact in the world of diabetes management. 
+The lack of sufficient applications and resources to address this problem is exactly what I am trying to change. Every day I strive to improve the situation by developing helpful tools and solutions. 
+<br><br>
 
-_That's why I want to use my expertise to help improve or create the interfaces of such apps._
+
 
 <div align="center">
-<img src="https://github.com/jonas8900/jonas8900/assets/123127839/badab31c-acee-4bb3-a22c-16d752fa203a" width="250">
+<img src="https://github.com/jonas8900/jonas8900/assets/123127839/badab31c-acee-4bb3-a22c-16d752fa203a" align="left" width="250">
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonas8900)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=jonas8900&style=flat-square&color=blue" alt=""/>
+ </div>
+
+<div id="badges" align="center">
+  <a href="https://www.xing.com/profile/Jonas_Dally2/cv">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
+
+
