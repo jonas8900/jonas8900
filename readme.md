@@ -7,7 +7,7 @@
 
 
 <div align="left">
-<img src="https://github.com/jonas8900/jonas8900/assets/123127839/8043a952-38db-4f92-a356-58215f995c61" width="100" height="100" align="right">
+<img src="https://github.com/jonas8900/jonas8900/assets/123127839/8043a952-38db-4f92-a356-58215f995c61" width="150" height="150" align="right">
 
 
 I'm an aspiring web developer, 
