@@ -39,6 +39,7 @@ Many of my friends are developers or work in cybersecurity roles, which creates 
     <img class="skill-icon" src="https://skillicons.dev/icons?i=nodejs">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=py">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=mongodb">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=styledcomponents">
   </a>
 </div>
 <br>
