@@ -47,10 +47,6 @@ Many of my friends are developers or work in cybersecurity roles, which creates 
 <br>
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas8900&layout=compact&theme=transparent" style="margin-right: 20px;" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jonas8900&show_icons=true&theme=transparent" style="margin-left: 20px;" width="400" />
-</div>
 <br>
 <br>
 <br>
