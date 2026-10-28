@@ -15,14 +15,14 @@ With over 2.5 years of professional experience in agency and client projects, I 
 
 <br>
 
-### 🌐 Live Projects & References
+### Live Projects & References
 * **KineTec Solutions:** [kinetec-solutions.de](https://www.kinetec-solutions.de) - Modular multi-tenant web application infrastructure
 * **Kim's Makramee Showcase:** [makramee.kinetec-solutions.de](https://www.makramee.kinetec-solutions.de)
 * **Obenole:** [obenole.de](https://www.obenole.de)
 
 <br>
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
